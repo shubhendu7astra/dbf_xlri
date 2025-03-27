@@ -134,9 +134,7 @@ plot(forecast(model_final,xreg=new))
 plot(forecast(model_final2,xreg=new2))
  Box.test(z)
  
- # Assuming you have a variable 'my_variable' and you want to save its value to a CSV file.
- 
- # Example variable (replace with your actual variable)
+
 
  
  # Create a data frame (even if it's a single column)
